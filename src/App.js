@@ -13,6 +13,7 @@ function App() {
           style={{ margin: '0 auto' }}
         />
       </div>
+
       <div className="style_storeContainer">
         <div className="item">
           <div className="title">토트넘</div>

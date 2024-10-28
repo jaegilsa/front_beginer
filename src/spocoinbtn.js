@@ -2,6 +2,7 @@ function spobtn() {
   const Click = () => {
     alert('button clicked!');
   };
+  
 
   return (
     <button className="btn" type="button" onClick={Click}>
